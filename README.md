@@ -3,7 +3,7 @@ http://www.javainterviewpoint.com/springfox-swagger-2-spring-restful-web-service
 
 https://avaldes.com/inserting-and-retrieving-binary-data-with-mongodb-using-jax-rs-restful-web-service/#
 
-# springBootDockerTomcatMongodb
+# SpringBootDockerTomcatMongodb
 "Note this project's few methods are not working.. it will be fixed soon"
 docker build -t myproject .
 
