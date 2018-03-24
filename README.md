@@ -37,7 +37,7 @@ content-type:application/json
 
 {
     "id" : "00002",
-    "problemDescription": "FM is not monitoring",
+    "problemDescription": "TMF is not monitoring",
     "severity" : "Major",
     "status" : "Open",
     "component" : "NMH",
